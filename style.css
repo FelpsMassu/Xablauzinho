@@ -1,0 +1,15 @@
+nav{
+    background-color: azure;
+    height: 300px;
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+li {
+    background-color: white;
+    display: inline;
+}
+ul{
+    text-decoration: none;
+}
